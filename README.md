@@ -20,3 +20,8 @@ Ayrıca, kaggle üzerinden alınan 2020-2024 yıllarına ait veri bilimci maaşl
 
 - *work_year:* İşin maaşına ilişkin verilerin yılı.
 - *salary_in_usd:* Standardizasyon amacıyla ABD dolarına dönüştürülen maaş.
+
+## Sonuç Grafiği
+Sonuç grafiği, projede kullanılan veri setini ve analiz edilen değişkenleri görselleştirmek için oluşturulmuştur. Grafikte son üç yıla ait yüksek, orta ve düşük veri bilimci maaşlarını görselleştiren iç içe pasta grafiği verilmiştir.
+
+![Sonuç Grafiği](https://github.com/EdaYaren/graphical-data-analysis/blob/main/nested%20pie%20chart.png)
